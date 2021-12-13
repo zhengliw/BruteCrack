@@ -1,8 +1,10 @@
 # BruteCrack
+
 A small and extremely lightweight tool to list brute-force cracked passwords.
 
 # What is this?
-BruteCrack should list passwords using Brute Force.
+
+BruteCrack should list passwords using Brute Force. More features will be introduced during updates!
 
 # What to pay A LOT of attention for?
 
