@@ -1,0 +1,12 @@
+Version 1.1.1
+Changes
+
+- More polished experience with error catching
+- Very slight code polishing
+
+##
+
+Version 1.0
+Changes
+
+- Switched over to Python after the unfinished C Version
