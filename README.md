@@ -1,6 +1,7 @@
 # BruteCrack
 
 A small and extremely lightweight tool to list brute-force cracked passwords.
+Just in case you don't want to keep reading: Report ugly code in issues with the label "optim-request", or else just live with it
 
 # What is this?
 
