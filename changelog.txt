@@ -1,3 +1,11 @@
+Version 1.2
+Changes
+
+- Finally adding another function to BruteCrack: Check if the your password can be cracked
+- Adding a port for very easy portation of own functions to be run inside of crack()
+
+##
+
 Version 1.1.1
 Changes
 
