@@ -5,7 +5,7 @@ Just in case you don't want to keep reading: Report ugly code in issues with the
 
 # What is this?
 
-BruteCrack should list passwords using Brute Force. More features will be introduced during updates!
+BruteCrack should list passwords using Brute Force. More features will be introduced with updates!
 
 # What to pay A LOT of attention for?
 
