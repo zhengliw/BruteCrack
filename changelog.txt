@@ -1,3 +1,10 @@
+Version 2.1
+
+- Changing back to C because it's better for applications which require as high processing speed as possible
+- Changed CL args format
+
+##
+
 Version 1.2
 Changes
 
